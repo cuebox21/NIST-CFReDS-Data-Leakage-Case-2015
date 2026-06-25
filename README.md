@@ -2,14 +2,16 @@
 
 
 <h2>Description</h2>
-Project consists of a designed and configured segmented small-office network simulating a company with three departments, each isolated on its own VLAN while sharing a single routed gateway with basic security implemented such as access control lists that limit staff pcs from pinging management pcs, unused port disabling and port security. The Word Doc entitled "Small Office VLAN Project.docx" covers in depth implementation of the network and its devices.
+This project presents the findings from a complete digital forensics investigation conducted on the NIST CFReDS 2015 Data Leakage Case, a publicly available forensic challenge produced by the National Institute of Standards and Technology (NIST).
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools Used</h2>
 
-- <b>IOS Command Line (CLI)</b> 
-- <b>Cisco Packet Tracer </b>
+- <b>Autopsy</b> 
+- <b>FTK Imager </b>
+- <b>Registry Explorer</b> 
+- <b>DB Browser for SQLite </b>
 
 <h2>Screenshots:</h2>
 
