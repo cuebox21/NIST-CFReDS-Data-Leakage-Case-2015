@@ -20,12 +20,12 @@ Registry Explorer: SOFTWARE hive showing OS version, install date, and registere
 <img src="https://imgur.com/HPiEvXz.png" height="80%" width="80%"/>
 <br />
 <br />
-Port Security  <br/>
-<img src="https://imgur.com/1jGsgCa.png" height="80%" width="80%">
+Registry Explorer: SAM hive showing all user accounts including 'informant'  <br/>
+<img src="https://imgur.com/eY71cHg.png" height="80%" width="80%">
 <br />
 <br />
-Unused Ports Disabling <br/>
-<img src="https://i.imgur.com/ihAZqS0.png" height="80%" width="80%">
+DB Browser for SQLite: Chrome History query showing browsing activity including data leakage searches on March 23, 2015 <br/>
+<img src="https://imgur.com/O6jiW8v.png" height="80%" width="80%">
 <br />
 <br />
 Implementing Access Control list on Router:  <br/>
