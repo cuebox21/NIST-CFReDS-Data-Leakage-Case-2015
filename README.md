@@ -16,8 +16,8 @@ This project presents the findings from a complete digital forensics investigati
 <h2>Screenshots:</h2>
 
 <p align="center">
-Office Layout <br/>
-<img src="https://imgur.com/rytqFFc.png" height="80%" width="80%"/>
+Registry Explorer: SOFTWARE hive showing OS version, install date, and registered owner 'informant' <br/>
+<img src="https://imgur.com/HPiEvXz.png" height="80%" width="80%"/>
 <br />
 <br />
 Port Security  <br/>
