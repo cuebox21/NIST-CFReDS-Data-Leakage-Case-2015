@@ -28,15 +28,18 @@ DB Browser for SQLite: Chrome History query showing browsing activity including 
 <img src="https://imgur.com/O6jiW8v.png" height="80%" width="80%">
 <br />
 <br />
-Implementing Access Control list on Router:  <br/>
-<img src="https://i.imgur.com/I5hXst4.png" height="80%" width="80%">
+Registry Explorer: NTUSER.DAT RecentDocs showing secret_project files and resignation letter accessed by the suspect:  <br/>
+<img src="https://imgur.com/RAqWqmM.png" height="80%" width="80%">
  <br />
 <br />
- Attempting to ping Management PC from Staff PC and being Deined due to Acces Control List  <br/>
-<img src="https://i.imgur.com/lsk4yJn.png" height="80%" width="80%">
+ FTK Imager: Google Drive user_default folder showing snapshot.db and sync_config.db wiped (null byte contents confirmed in hex panel)  <br/>
+<img src="https://imgur.com/Y4LmOt8.png" height="80%" width="80%">
 <br />
 <br />
-
+FTK Imager: FTK Imager: RM#1 exFAT partition showing Secret Project Data folder with hex panel confirming 'Authorized USB' volume label string  <br/>
+<img src="https://imgur.com/S2Bo1kz.png" height="80%" width="80%">
+<br />
+<br />
 <!--
  ```diff
 - text in red
